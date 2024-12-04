@@ -23,6 +23,6 @@
 ## 📫 How to Reach Me  
 - 📧 Email: arthur.descourvieres@gmail.com
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/arthur-descourvieres-b37290315/)
-- 
+
 🌟 Feel free to connect or collaborate on exciting projects!
 
