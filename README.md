@@ -3,22 +3,24 @@
 ## 🛠️ About Me
 - 🌐 I’m a **web developer** passionate about creating efficient and user-friendly applications.  
 - 🧑‍💻 Currently working as a **web development intern**.  
-- 🌱 Currently learning **JavaScript** and exploring frameworks like **Next.js** and **Laravel**.  
+- 🌱 Currently learning **JavaScript** and exploring frameworks like **Next.js** and **ReactNative**.  
 - 🔍 Interested in **international job opportunities**.  
 
-## 💼 Skills  
-- **Languages**: React, NextJs (learning), Symfony, Docker.  
-- **Tools & Frameworks**: Node.js, Express, Laravel, Git.  
-- **Other Interests**: Web performance, user experience design, and responsive development.  
+## 💼 Skills
+- **Languages**: JavaScript, PHP  
+- **Frameworks & Libraries**: React, Next.js (learning), Symfony  
+- **Tools & Platforms**: Docker, Git  
+
+- **Other Interests**: Web performance, user experience design, responsive development.
+
+
+- **Autres centres d’intérêt** : performance web, design d’expérience utilisateur, développement responsive.
+
 
 ## 🎯 Goals  
 - 💪 Gain expertise in **full-stack web development**.  
 - 📈 Build scalable applications and contribute to open-source projects.  
 
-## 🏋️‍♂️ Hobbies  
-- 🏋️‍♂️ Fitness enthusiast focused on gaining muscle mass.  
-- 🚗 Auto enthusiast dreaming of owning a BMW M4 G82.  
-- 🏃‍♂️ Runner and always up for challenges.  
 
 ## 📫 How to Reach Me  
 - 📧 Email: arthur.descourvieres@gmail.com
