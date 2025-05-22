@@ -7,7 +7,7 @@
 - 🔍 Interested in **international job opportunities**.  
 
 ## 💼 Skills  
-- **Languages**: JavaScript (learning), PHP (Vanilla, Laravel), HTML, CSS.  
+- **Languages**: React, NextJs (learning), Symfony, Docker.  
 - **Tools & Frameworks**: Node.js, Express, Laravel, Git.  
 - **Other Interests**: Web performance, user experience design, and responsive development.  
 
